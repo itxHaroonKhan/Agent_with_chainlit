@@ -22,10 +22,10 @@ Built with:
 
   * HTML, CSS, JavaScript
   * React.js, Next.js
-  * Tailwind CSS, Bootstrap
+  * Tailwind CSS, 
   * APIs, Components, Props, Hooks
-  * Node.js, Express.js (basic)
-  * MongoDB, Sanity CMS
+  * Node.js, 
+  * Sanity CMS
 * Rejects all **non-web topics** politely
 * Gives short, respectful **web-dev jokes** when asked for humor
 
